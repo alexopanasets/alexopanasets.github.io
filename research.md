@@ -10,7 +10,7 @@ I gather a novel data set of resumes, search activities, and search outcomes of 
 
 ![A graph depicting two trend lines, one for men and one for women. Both men and women believe that resumes rated "not at all qualified" have a low chance of receiving a job offer. Women, however, perceive greater returns to going from not qualified to qualified, as shown by their significantly steeper trend line.](https://drive.google.com/uc?id=1x2pWzYjrfkXNRrlmHoHd_kJZ6iQhjwXA)
 
-This result may help to explain why women apply to fewer jobs than men (Cortes, et al. (2021), Miano (2023), Tockey & Ignatova (2019)) and become more likely to apply for a job when qualifications become less ambiguous (Coffman, et al. (2023))
+This result may help to explain why women apply to fewer jobs than men (Cortes, et al. (2021), Miano (2023), Tockey & Ignatova (2019)) and become more likely to apply for a job when qualifications become less ambiguous (Coffman, et al. (2023)).
 
 ### Maternal Outcomes and Hospital Selection: Evidence from “Baby-Friendly” Hospitals
 
