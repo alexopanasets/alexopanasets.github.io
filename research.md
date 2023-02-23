@@ -1,3 +1,7 @@
+---
+title: Research
+---
+
 ### Works in progress
 
 #### Worth the Effort: Measuring and Predicting Investment in a Costly Application Process
